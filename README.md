@@ -1,2 +1,2 @@
 # XtreamPlayer
-AA Media Platform written from the ground up
+An Android Auto Media Platform written from the ground up
